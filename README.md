@@ -100,4 +100,5 @@ Basics of firewalls and service hardening
 Documentation + GitHub workflow
 
 ##OUTPUT
-![img alt] (https://github.com/santhosheyzz/Local-Network-Port-Scanning/blob/09d2d156c39ed8b824d800793856fcc1adc9e705/Output.png)
+
+![img alt](https://github.com/santhosheyzz/Local-Network-Port-Scanning/blob/09d2d156c39ed8b824d800793856fcc1adc9e705/Output.png)
