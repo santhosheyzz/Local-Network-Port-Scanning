@@ -3,6 +3,8 @@
 ## 📌 Objective
 To identify open ports in a local network using Nmap, understand services running on them, and analyze security risks.
 
+![img alt](https://github.com/santhosheyzz/Local-Network-Port-Scanning/blob/cfe19604c37ad624fd193b3d2272a77274d54275/Task%201.png)
+
 ## 🛠️ Tools Used
 - Kali Linux (VirtualBox)
 - Nmap
