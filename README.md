@@ -57,12 +57,15 @@ MAC Address: 52:54:00:12:35:03 (QEMU virtual NIC)
 
 ## 📚 Interview Questions
 What is an open port?
+
 An open port is a network port that accepts incoming connections, indicating a service is listening.
 
 How does Nmap perform a TCP SYN scan?
+
 Nmap sends SYN packets to ports. If it receives SYN-ACK, the port is open; if RST, it's closed.
 
 Risks of Open Ports?
+
 Unauthorized access, exploitation of vulnerabilities, data breaches.
 
 TCP vs UDP Scanning?
@@ -72,15 +75,18 @@ TCP: Reliable, connection-based, easier to detect.
 UDP: Connectionless, harder to detect, but less reliable.
 
 How to Secure Open Ports?
+
 Use firewalls, close unused ports, update services, use authentication.
 
 What does a Firewall do?
+
 Filters incoming/outgoing traffic based on rules; blocks unwanted ports/services.
 
 Why do attackers scan ports?
 To find open services they can exploit.
 
 How does Wireshark help?
+
 Shows raw packet data, allowing deeper inspection of traffic during port scans.
 
 
